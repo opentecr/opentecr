@@ -1,2 +1,2 @@
 # opentecr
-contains the actual data of the openTECR database
+contains general information about the openTECR database
