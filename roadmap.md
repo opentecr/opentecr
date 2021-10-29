@@ -14,13 +14,13 @@ This document collects on-going work, ideas for future work, and invites for con
 
 ## Community facilitation
 
-## Curation 
+## Curation of data
 
 ### Curation - TECR-DB
 
 ### Curation - literature from 2007 to 2021
 
-## Literature identification
+## [Literature identification & storage](./roadmap/literature_identification_and_storage.md)
 
 ## Outreach
 
