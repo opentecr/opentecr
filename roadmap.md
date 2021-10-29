@@ -29,5 +29,7 @@ This document collects on-going work, ideas for future work, and invites for con
 
 # Proposals for future work
 
+## Graphical User Interface / Website
 
+## Python package
 
