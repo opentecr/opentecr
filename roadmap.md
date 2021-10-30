@@ -14,9 +14,19 @@ This document collects on-going work, ideas for future work, and invites for con
 
 ## Community facilitation
 
+* Google Groups (https://groups.google.com/g/opentecr)
+* speaking about the group on conferences, talks, ...
+  * slides e.g. here: [1](https://doi.org/10.5281/zenodo.5355130), [2](https://doi.org/10.5281/zenodo.5566376)
+
 ## Curation of data
 
+* storage in github (https://github.com/opentecr/opentecr-dataa)
+* adheres to schema
+
 ### Curation - TECR-DB
+
+* cleaning up errors, e.g. duplicates, nonsense reactions, ...
+* transforming to openTECR schema
 
 ### Curation - literature from 2007 to 2021
 
@@ -24,7 +34,11 @@ This document collects on-going work, ideas for future work, and invites for con
 
 ## Outreach
 
-## Schema
+## Persistent Identifiers & Data Schema
+
+* w3id.org
+* InChI
+* schema repository (https://github.com/opentecr/opentecr-schema)
 
 
 # Proposals for future work
@@ -32,4 +46,10 @@ This document collects on-going work, ideas for future work, and invites for con
 ## Graphical User Interface / Website
 
 ## Python package
+
+## Sanity checks / CI/CD
+
+* atom mapping
+
+## Transformation of data into other formats
 
