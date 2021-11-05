@@ -10,7 +10,7 @@ Our community organizes openly using a Google Groups (https://groups.google.com/
 
 This document collects on-going work, ideas for future work, and invites for contributions. Please shoot an email to opentecr@googlegroups.com to get in touch!
 
-Do you want to contribute? Great! We do not have a central place to collect concrete contribution opportunities (yet). So please get in touch via opentecr@googlegroups.com or opentecr-community-facilitation@robert-giessmann.de !
+Do you want to contribute? We do not have a central place to collect concrete contribution opportunities (yet). So please get in touch via opentecr@googlegroups.com or opentecr-community-facilitation@robert-giessmann.de !
 
 
 # On-going work
@@ -19,15 +19,17 @@ Do you want to contribute? Great! We do not have a central place to collect conc
 
 * catch up with the community regularly through the Google Groups (https://groups.google.com/g/opentecr)
 * find out needs of community members
-* find potential contributors
+* welcome new community members individually
 * care for the roadmap
 
-_working on this_: @rgiessmann, 
+_working on this_: @rgiessmann
+
 
 ## Curation of data
 
 * storage in github (https://github.com/opentecr/opentecr-data)
 * adheres to schema (see below)
+
 
 ### Curation - TECR-DB
 
@@ -57,6 +59,7 @@ _working on this_: @rgiessmann
 * identify just-published primary literature containing equilibrium measurements
   * already set-up: check a weekly PubMed notification
 * grade literature based on title and abstract, respectively, and after curation (aim: create a predictive model of "curation worthiness")
+* archive primary literature on Zenodo with restricted access (due to potential copyright infringement if access would not be restricted)
 
 _working on this_: @rgiessmann
 
@@ -68,11 +71,15 @@ _working on this_: @rgiessmann
 
 _working on this_: ...
 
-## Persistent Identifiers & Data Schema
 
-* w3id.org
-* InChI
+## Persistent Identifiers
 
+* we want to provide persistent identifiers for our data elements, so we can speak about them and have them machine-actionable, too
+* for this we use w3id.org identifiers 
+* w3id.org identifiers have to be "minted" by creating pull requests to https://github.com/perma-id/w3id.org
+  * discussion is on-hold whether each individual identifier shall be submitted to w3id.org: see https://github.com/perma-id/w3id.org/pull/2314
+
+_working on this_: @rgiessmann
 
 ## Schema
 
