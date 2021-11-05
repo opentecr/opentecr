@@ -20,6 +20,7 @@ Do you want to contribute? We do not have a central place to collect concrete co
 * catch up with the community regularly through the Google Groups (https://groups.google.com/g/opentecr)
 * find out needs of community members
 * welcome new community members individually
+* organize community convenings
 * care for the roadmap
 
 _working on this_: @rgiessmann
