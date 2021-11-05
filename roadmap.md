@@ -13,6 +13,23 @@ This document collects on-going work, ideas for future work, and invites for con
 Do you want to contribute? We do not have a central place to collect concrete contribution opportunities (yet). So please get in touch via opentecr@googlegroups.com or opentecr-community-facilitation@robert-giessmann.de !
 
 
+# Table of Content
+
+- [On-going work](#on-going-work)
+  * [Community facilitation](#community-facilitation)
+  * [Curation of data](#curation-of-data)
+    + [Curation - TECR-DB](#curation---tecr-db)
+    + [Curation - literature from 2007 to 2021](#curation---literature-from-2007-to-2021)
+  * [Literature identification & storage](#-literature-identification---storage---roadmap-literature-identification-and-storagemd-)
+  * [Outreach](#outreach)
+  * [Persistent Identifiers](#persistent-identifiers)
+  * [Schema](#schema)
+- [Proposals for future work](#proposals-for-future-work)
+  * [Graphical User Interface / Website](#graphical-user-interface---website)
+  * [Python package](#python-package)
+  * [Sanity checks / Quality Control](#sanity-checks---quality-control)
+
+
 # On-going work
 
 ## Community facilitation
