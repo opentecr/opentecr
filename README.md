@@ -14,4 +14,4 @@ This repository contains general information about the openTECR database.
 
 For example, [you can have a look at the roadmap](roadmap.md) of this project.
 
-You can contribute to this and all other repositories in this organization via Pull Requests and/or opening [Issues](https://github.com/opentecr/opentecr/issues). See you there! :)
+You can contribute to this and all other repositories in this organization via Pull Requests and/or opening [Issues](https://github.com/opentecr/opentecr/issues). Of course, also feel free to write an email to opentecr@googlegroups.com. See you there! :)
