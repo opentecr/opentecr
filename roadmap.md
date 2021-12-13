@@ -74,6 +74,7 @@ _working on this_: @rgiessmann
 
 ## [Literature identification & storage](./roadmap/literature_identification_and_storage.md)
 
+* 776 PDF files, named according to the Goldberg shorthand keys (e.g. 26QUA_WOO) are available at: https://doi.org/10.5281/zenodo.5776216 -- you need to request access to those files via Zenodo with your email address; access will be granted to you based on German copyright law
 * identify just-published primary literature containing equilibrium measurements
   * already set-up: check a weekly PubMed notification
 * grade literature based on title and abstract, respectively, and after curation (aim: create a predictive model of "curation worthiness")
