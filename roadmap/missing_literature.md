@@ -40,8 +40,8 @@ I am based at
 
 I can easily pay fees for inter-library loans / scans:
 
-68VEE (24€ for scan, pay with IFLA vouchers)
-74MCK ($45 for scan, pay via credit card)
+* 68VEE (24€ for scan, pay with IFLA vouchers)
+* 74MCK ($45 for scan, pay via credit card)
 
 
 
@@ -57,8 +57,15 @@ I can easily pay fees for inter-library loans / scans:
 @book{61PRA,
     title={Taurocyamine phosphoskinase: isolement, caract{\`e}res g{\'e}n{\'e}raux, groupements actifs},
     year={1961},
-    author={Pradel, L.A.},
+    author={Pradel, Louise Anne},
     url={https://www.sudoc.fr/075197448}
+}
+
+@book{68VEE,
+    title = {Measurement of respiratory metabolites in animal tisue},
+    year = {1969},
+    author = {Veech, Richard Lewis},
+    url={https://solo.bodleian.ox.ac.uk/permalink/f/1lj314/TN_cdi_britishlibrary_ethos_oai_ethos_bl_uk_711303},
 }
 
 @book{74MCK,
@@ -76,9 +83,6 @@ I can easily pay fees for inter-library loans / scans:
 }
 
 '''
-
-
-68VEE
 
 
 56KIT/HOR

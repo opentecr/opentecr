@@ -8,11 +8,11 @@ This database is expected to serve computational and experimental scientists in 
 
 ## Communication
 
-Our community organizes openly using a Google Groups (https://groups.google.com/g/opentecr).
+Our community organizes openly using a Google Groups: visit (https://groups.google.com/g/opentecr).
 
 ## Roadmap
 
-[You can have a look at the roadmap](roadmap.md) of this project.
+[Have a look at the roadmap](roadmap.md) of this project.
 
 ## Contribute
 
@@ -24,9 +24,9 @@ You can also use this GitHub repo's [Issues](https://github.com/opentecr/opentec
 
 ## Concrete tasks
 
-* [Check whether there is literature of interest near to you](./roadmap/missing_literature.md)! If so, you can support openTECR by digitizing it!
-* Curate recent literature, i.e. extract equilibrium constants, experimental conditions, etc. from provided literature references
-* Give feedback on this README and the other files / information you find about openTECR
+* [Check whether there is literature of interest near to you!](./roadmap/missing_literature.md) If so, you can support openTECR by digitizing it.
+* Curate recent literature, i.e. extract equilibrium constants, experimental conditions, etc. from provided literature references.
+* Give feedback on this README and the other files / information you find about openTECR.
 
 ## Get in touch
 
