@@ -2,7 +2,7 @@
 
 openTECR (Open database on Thermodynamics of Enzyme-Catalyzed Reactions) is a database and a community.
 
-We aim to create a reliable, machine-actionable data collection of apparent equilibrium constants of enzyme-catalyzed reactions.
+We aim to create a reliable, free, machine-actionable data collection of apparent equilibrium constants of enzyme-catalyzed reactions, with a clear change process to integrate new data and correct errors.
 
 This database is expected to serve computational and experimental scientists in the fields of metabolic engineering, genome-scale metabolic modelling, biocatalysis and related fields by providing curated information. It will probably be used by eQuilibrator and COBRA as the shared data basis for their individual calculations.
 
@@ -51,34 +51,36 @@ _working on this_: @rgiessmann
 
 ### Curation - TECR-DB
 
-* TECR-DB is the legacy data source from NIST 
+* TECR-DB is the legacy data source from NIST
 * clarify copyright situation with NIST
 * release the data under an open license if possible
 * massage the data:
   * transforming to openTECR schema
   * cleaning up errors, e.g. duplicates, nonsense reactions, ...
   * annotate literature references with DOI, PMID, title of the paper, ...
-  * add InChIs to the data, derived from the compounds' trivial names
+  * map the reactions to Rhea reactions (https://www.rhea-db.org/)
   * check with and archive the primary literature
+* partial overlap with [Literature identification & storage](#-literature-identification---storage---roadmap-literature-identification-and-storagemd-)
 
-_working on this_: @FreiburgerMSU 
+_working on this_: @FreiburgerMSU , @rgiessmann
 
 
 ### Curation - literature from 2007 to 2021
 
 * extract equilibrium constants, experimental conditions, etc. from provided literature references
 * create corresponding json files in a separate branch on https://github.com/opentecr/opentecr-data
+* literature list available under: https://github.com/roberts-farm-of-ideas/8/blob/main/materials/pubmed%20opentecr%20review/pubmed%20search%20results%20evaluated.ods
 
 _working on this_: @rgiessmann
 
 
 ## [Literature identification & storage](./roadmap/literature_identification_and_storage.md)
 
-* 776 PDF files, named according to the Goldberg shorthand keys (e.g. 26QUA_WOO) are available at: https://doi.org/10.5281/zenodo.5776216 -- you need to request access to those files via Zenodo with your email address; access will be granted to you based on German copyright law
+* archive primary literature on Zenodo with restricted access (due to potential copyright infringement if access would not be restricted)
+  * 1054 PDF files, named according to the Goldberg shorthand keys (e.g. 26QUA_WOO) are available at: https://doi.org/10.5281/zenodo.5776216 -- you need to request access to those files via Zenodo with your email address; access will be granted to you based on German copyright law
 * identify just-published primary literature containing equilibrium measurements
   * already set-up: check a weekly PubMed notification
 * grade literature based on title and abstract, respectively, and after curation (aim: create a predictive model of "curation worthiness")
-* archive primary literature on Zenodo with restricted access (due to potential copyright infringement if access would not be restricted)
 
 _working on this_: @rgiessmann
 
@@ -94,11 +96,12 @@ _working on this_: ...
 ## Persistent Identifiers
 
 * we want to provide persistent identifiers for our data elements, so we can speak about them and have them machine-actionable, too
-* for this we use w3id.org identifiers 
+* for this we use w3id.org identifiers
 * w3id.org identifiers have to be "minted" by creating pull requests to https://github.com/perma-id/w3id.org
   * discussion is on-hold whether each individual identifier shall be submitted to w3id.org: see https://github.com/perma-id/w3id.org/pull/2314
 
 _working on this_: @rgiessmann
+
 
 ## Schema
 
@@ -129,4 +132,3 @@ _working on this_: @midnighter, @rgiessmann
 
 * implement an automated calculation / prediction of atom mapping -- see whether the prediction appears highly non-sensible, and thus likely an error exists in the InChIs
 * check whether publication data (authors, title, ...) is in-sync with our source-of-truth (unclear what exactly our source-of-truth is: PubMed? DataCite?)
-
