@@ -35,7 +35,7 @@ Do you want to contribute? We are happy to get in touch via opentecr@googlegroup
 * organize community convenings
 * care for the roadmap
 
-_working on this_: [@rgiessmann](@rgiessmann)
+_working on this_: [@rgiessmann](https://github.com/rgiessmann)
 
 
 ## Curation of data
@@ -57,7 +57,7 @@ _working on this_: [@rgiessmann](@rgiessmann)
   * check with and archive the primary literature
 * partial overlap with [Literature identification & storage](#-literature-identification---storage)
 
-_working on this_: @FreiburgerMSU , @rgiessmann
+_working on this_: [@FreiburgerMSU](https://github.com/FreiburgerMSU) , [@rgiessmann](https://github.com/rgiessmann)
 
 
 ### Curation - literature from 2007 to 2021
@@ -66,7 +66,7 @@ _working on this_: @FreiburgerMSU , @rgiessmann
 * create corresponding json files in a separate branch on https://github.com/opentecr/opentecr-data
 * literature list available under: https://github.com/roberts-farm-of-ideas/8/blob/main/materials/pubmed%20opentecr%20review/pubmed%20search%20results%20evaluated.ods
 
-_working on this_: @rgiessmann
+_working on this_: [@rgiessmann](https://github.com/rgiessmann)
 
 
 ## Literature identification & storage
@@ -78,7 +78,7 @@ _working on this_: @rgiessmann
   * already set-up: check a weekly PubMed notification
 * grade literature based on title and abstract, respectively, and after curation (aim: create a predictive model of "curation worthiness")
 
-_working on this_: @rgiessmann
+_working on this_: [@rgiessmann](https://github.com/rgiessmann)
 
 
 ## Outreach
@@ -96,7 +96,7 @@ _working on this_: ...
 * w3id.org identifiers have to be "minted" by creating pull requests to https://github.com/perma-id/w3id.org
   * discussion is on-hold whether each individual identifier shall be submitted to w3id.org: see https://github.com/perma-id/w3id.org/pull/2314
 
-_working on this_: @rgiessmann
+_working on this_: [@rgiessmann](https://github.com/rgiessmann)
 
 
 ## Schema
@@ -107,7 +107,7 @@ schema repository: https://github.com/opentecr/opentecr-schema
 * define a data model and corresponding schema for data entry / storage
 * provide means to confirm the adherence of data files to the schema
 
-_working on this_: @midnighter, @rgiessmann
+_working on this_: [@midnighter](https://github.com/midnighter), [@rgiessmann](https://github.com/rgiessmann)
 
 
 # Proposals for future work
