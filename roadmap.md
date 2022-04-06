@@ -1,16 +1,11 @@
 # Roadmap
 
-openTECR (Open database on Thermodynamics of Enzyme-Catalyzed Reactions) is a database and a community.
+Our aim is to create a reliable, free, machine-actionable data collection of apparent equilibrium constants of enzyme-catalyzed reactions, with a clear change process to integrate new data and correct errors.
 
-We aim to create a reliable, free, machine-actionable data collection of apparent equilibrium constants of enzyme-catalyzed reactions, with a clear change process to integrate new data and correct errors.
+This document collects on-going work, ideas for future work, and invites for contributions. Any feedback? Send an email or open an Issue!
 
-This database is expected to serve computational and experimental scientists in the fields of metabolic engineering, genome-scale metabolic modelling, biocatalysis and related fields by providing curated information. It will probably be used by eQuilibrator and COBRA as the shared data basis for their individual calculations.
+Do you want to contribute? We are happy to get in touch via opentecr@googlegroups.com!
 
-Our community organizes openly using a Google Groups (https://groups.google.com/g/opentecr).
-
-This document collects on-going work, ideas for future work, and invites for contributions. Please shoot an email to opentecr@googlegroups.com to get in touch!
-
-Do you want to contribute? We do not have a central place to collect concrete contribution opportunities (yet). So please get in touch via opentecr@googlegroups.com or opentecr-community-facilitation@robert-giessmann.de !
 
 
 # Table of Content
@@ -20,7 +15,7 @@ Do you want to contribute? We do not have a central place to collect concrete co
   * [Curation of data](#curation-of-data)
     + [Curation - TECR-DB](#curation---tecr-db)
     + [Curation - literature from 2007 to 2021](#curation---literature-from-2007-to-2021)
-  * [Literature identification & storage](#-literature-identification---storage---roadmap-literature-identification-and-storagemd-)
+  * [Literature identification & storage](#-literature-identification---storage)
   * [Outreach](#outreach)
   * [Persistent Identifiers](#persistent-identifiers)
   * [Schema](#schema)
@@ -40,7 +35,7 @@ Do you want to contribute? We do not have a central place to collect concrete co
 * organize community convenings
 * care for the roadmap
 
-_working on this_: @rgiessmann
+_working on this_: [@rgiessmann](@rgiessmann)
 
 
 ## Curation of data
@@ -60,7 +55,7 @@ _working on this_: @rgiessmann
   * annotate literature references with DOI, PMID, title of the paper, ...
   * map the reactions to Rhea reactions (https://www.rhea-db.org/)
   * check with and archive the primary literature
-* partial overlap with [Literature identification & storage](#-literature-identification---storage---roadmap-literature-identification-and-storagemd-)
+* partial overlap with [Literature identification & storage](#-literature-identification---storage)
 
 _working on this_: @FreiburgerMSU , @rgiessmann
 
@@ -74,8 +69,9 @@ _working on this_: @FreiburgerMSU , @rgiessmann
 _working on this_: @rgiessmann
 
 
-## [Literature identification & storage](./roadmap/literature_identification_and_storage.md)
+## Literature identification & storage
 
+* for more details, see [the specific document](./roadmap/literature_identification_and_storage.md)
 * archive primary literature on Zenodo with restricted access (due to potential copyright infringement if access would not be restricted)
   * 1054 PDF files, named according to the Goldberg shorthand keys (e.g. 26QUA_WOO) are available at: https://doi.org/10.5281/zenodo.5776216 -- you need to request access to those files via Zenodo with your email address; access will be granted to you based on German copyright law
 * identify just-published primary literature containing equilibrium measurements
