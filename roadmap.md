@@ -86,7 +86,8 @@ _working on this_: [@rgiessmann](https://github.com/rgiessmann)
 * speaking about the group on conferences, talks, ...
   * slides e.g. here: [1](https://doi.org/10.5281/zenodo.5355130), [2](https://doi.org/10.5281/zenodo.5566376)
   * abstract submitted to conferences e.g. here: [1](./roadmap/abstracts.md#2022-08-06-combine-2022), [2](./roadmap/abstracts.md#2021-08-20-combine-2021)
-_working on this_: ...
+
+_working on this_: [@rgiessmann](https://github.com/rgiessmann)
 
 
 ## Persistent Identifiers
