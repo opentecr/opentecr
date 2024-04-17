@@ -82,9 +82,9 @@ If you can identify those pieces in any library catalog, please let us know by s
 You can find all the info we have on those works in the list below. It proved often helpful to look for the journal by searching the catalog by the journal's ISSN.
 
 
-# List of works with known whereabouts
+# Details about works with known whereabouts
 
-'''
+
 @book{52ASK,
     title = {The separation of enzymes by means of organic solvents at low temperature : application to aqueous rabbit muscle extract with a study of creatinephosphokinase},
     year = {1951},
@@ -129,13 +129,14 @@ You can find all the info we have on those works in the list below. It proved of
     url = {https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma990005083740106761},
 }
 
-'''
 
 
-# List of works with unknown whereabouts
+# Details about works with unknown whereabouts
 
-56KIT/HOR
-65SEK/SUN
-74FRA/LEE
-75KAP/BAR
-84REK/RUM2
+(details about entries to be added)
+
+- 56KIT/HOR
+- 65SEK/SUN
+- 74FRA/LEE
+- 75KAP/BAR
+- 84REK/RUM2
