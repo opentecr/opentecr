@@ -75,7 +75,7 @@ We didn't find any way to access the following works:
 * 65SEK/SUN
 * 74FRA/LEE
 * 75KAP/BAR
-* 84REK/RUM2
+* 84REK/RUM2 (appears in reference list of part 3)
 
 If you can identify those pieces in any library catalog, please let us know by sending an email!
 
@@ -135,8 +135,8 @@ You can find all the info we have on those works in the list below. It proved of
 
 (details about entries to be added)
 
-- 56KIT/HOR
-- 65SEK/SUN
-- 74FRA/LEE
-- 75KAP/BAR
-- 84REK/RUM2
+- 56KIT/HOR: Kitzinger, C.; Horecker, B.L.; Weisbach, A; Abstr. 20th Int. Physiol. Congress, Brussels (1956).
+- 65SEK/SUN: Sekijo, C.; Sunahara, N.; Iwakumo, S.; Hakko To Taisha; 2, 139 (1965).
+- 74FRA/LEE: Fratzke, A.R.; Lee, Y.Y.; Tsao, G.T.; Ges Verfahrenstechnik und Chem./AICLE, Jt. Meeting; Vol. 4; Munich, Germany (1974).
+- 75KAP/BAR: Kapitannikov, Yu. V.; Barshevskaya, T.N.; Ginodman, L.M.; Ref. Dokl. Socbshch. - Mendeleevsk. S'ezd Obshch. Prikl. Khim., 11th, Vol. 6, p.59. Edited by V.N. Rozinskaya. "Nauka": Moscow (1975).
+- 84REK/RUM2 (appears in part 3): Rekhnrsky, M.V.; Rumch, L.D.; Gal'chenko, G.L.; Probl. Kalorim. Khim. Termodin., Dokl. Vses. Konf., 10th, Vol. 2, pp. 531-533; edited by I.M. Emanuel, Akad. Nauk SSSR. lnst. Khim. Fiz.: Chermogolovka. USSR (1984).
