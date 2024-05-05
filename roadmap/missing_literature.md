@@ -23,9 +23,6 @@ For works with unknown whereabouts, you can help by
 
 ... IIT (Illinois Institute of Technology): 74MCK (free digitization for IIT staff, faculty, students)
 
-... MIT (Massachusetts Institute of Technology): 90LIU
-
-
 If you are affiliated to one of the institutions above, you should be eligible for a free digitization of the works above.
 
 If you know someone who is affiliated to those institutions and would help us in having the works scanned, that would be equally great!
@@ -42,8 +39,6 @@ I am based at
 ... Germany: 55DEC (available in: Goettingen, Hamburg, Jena, Kiel; Frankfurt, Leipzig; Erlangen, Frankfurt, Freiburg, Koeln, Muenchen, Muenster, Tuebingen, (Zuerich))
 
 ... IIT (Illinois Institute of Technology): 74MCK (free digitization for IIT staff, faculty, students)
-
-... MIT (Massachusetts Institute of Technology): 90LIU
 
 ... Oxford, UK: 68VEE
 
@@ -121,14 +116,6 @@ You can find all the info we have on those works in the list below. It proved of
     author = {McKay, Gail Anne.},
     url = {https://i-share-iit.primo.exlibrisgroup.com/permalink/01CARLI_IIT/1vglki4/alma991092836105842},
 }
-
-@book{90LIU,
-    title = {Molecular studies on enzymes in the enterobactin biosynthetic pathway and on peptidyl-prolyl cis-trans isomerase },
-    year = {1990},
-    author = {Liu, Jun},
-    url = {https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma990005083740106761},
-}
-
 
 
 # Details about works with unknown whereabouts
