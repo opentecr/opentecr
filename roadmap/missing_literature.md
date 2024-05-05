@@ -127,3 +127,29 @@ You can find all the info we have on those works in the list below. It proved of
 - 74FRA/LEE: Fratzke, A.R.; Lee, Y.Y.; Tsao, G.T.; Ges Verfahrenstechnik und Chem./AICLE, Jt. Meeting; Vol. 4; Munich, Germany (1974).
 - 75KAP/BAR: Kapitannikov, Yu. V.; Barshevskaya, T.N.; Ginodman, L.M.; Ref. Dokl. Socbshch. - Mendeleevsk. S'ezd Obshch. Prikl. Khim., 11th, Vol. 6, p.59. Edited by V.N. Rozinskaya. "Nauka": Moscow (1975). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99269673405961 ; CODEN (CASSI) is: 37MOAO; lookup on https://cassi.cas.org/ yields: Title "Referaty Dokladov i Soobshchenii - Mendeleevskii S'ezd po Obshchei i Prikladnoi Khimii"; Translated Title: "Abstracts of Reports and Communications - Mendeleev Congress on General and Applied Chemistry"
 - 84REK/RUM2 (appears in part 3): Rekhnrsky, M.V.; Rumch, L.D.; Gal'chenko, G.L.; Probl. Kalorim. Khim. Termodin., Dokl. Vses. Konf., 10th, Vol. 2, pp. 531-533; edited by I.M. Emanuel, Akad. Nauk SSSR. lnst. Khim. Fiz.: Chermogolovka. USSR (1984). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99279163405961 ; CODEN (CAS) is: 54OTAG ; lookup on cassi.cas.org yields: title: "Problemy Kalorimetrii i Khimicheskoi Termodinamiki, Doklady na Vsesoyuznoi Konferentsii" (translated: Problems of Calorimetry and Chemical Thermodynamics, Proceedings of the All-Union Conference)
+
+# Works with details to be added
+
+* 52ASK
+* 52KOR
+* 55DEC
+* 56KIT/HOR
+* 65SEK/SUN
+* 68KOH/WAR
+* 68VEE
+* 71BRI/CLA
+* 74FRA/LEE
+* 74MCK
+* 74SCH/STU
+* 75CLA/BIR
+* 75KAP/BAR
+* 84LLO/CHA
+* 88GUI/SNE
+* 90LIU
+* 91TEW/GOL2
+* 92KRA
+* 94WIL/TOO
+* 01DIC/BUR
+* 02TEW/GOL
+* 05SIR/HUT
+* 06AIR2
