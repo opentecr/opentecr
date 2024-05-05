@@ -128,23 +128,14 @@ You can find all the info we have on those works in the list below. It proved of
 
 # Works with details to be added
 
-* 52ASK
 * 52KOR
-* 55DEC
-* 56KIT/HOR
-* 65SEK/SUN
 * 68KOH/WAR
-* 68VEE
 * 71BRI/CLA
-* 74MCK
 * 74SCH/STU
 * 75CLA/BIR
-* 75KAP/BAR
 * 84LLO/CHA
 * 88GUI/SNE
-* 90LIU
 * 91TEW/GOL2
-* 92KRA
 * 94WIL/TOO
 * 01DIC/BUR
 * 02TEW/GOL
