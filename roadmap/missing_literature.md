@@ -121,23 +121,26 @@ You can find all the info we have on those works in the list below. It proved of
 
 (details about entries to be added)
 
-- 56KIT/HOR: Kitzinger, C.; Horecker, B.L.; Weisbach, A; Abstr. 20th Int. Physiol. Congress, Brussels (1956).
-- 65SEK/SUN: Sekijo, C.; Sunahara, N.; Iwakumo, S.; Hakko To Taisha; 2, 139 (1965).
-- 75KAP/BAR: Kapitannikov, Yu. V.; Barshevskaya, T.N.; Ginodman, L.M.; Ref. Dokl. Socbshch. - Mendeleevsk. S'ezd Obshch. Prikl. Khim., 11th, Vol. 6, p.59. Edited by V.N. Rozinskaya. "Nauka": Moscow (1975). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99269673405961 ; CODEN (CASSI) is: 37MOAO; lookup on https://cassi.cas.org/ yields: Title "Referaty Dokladov i Soobshchenii - Mendeleevskii S'ezd po Obshchei i Prikladnoi Khimii"; Translated Title: "Abstracts of Reports and Communications - Mendeleev Congress on General and Applied Chemistry"
-- 84REK/RUM2 (appears in part 3): Rekhnrsky, M.V.; Rumch, L.D.; Gal'chenko, G.L.; Probl. Kalorim. Khim. Termodin., Dokl. Vses. Konf., 10th, Vol. 2, pp. 531-533; edited by I.M. Emanuel, Akad. Nauk SSSR. lnst. Khim. Fiz.: Chermogolovka. USSR (1984). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99279163405961 ; CODEN (CAS) is: 54OTAG ; lookup on cassi.cas.org yields: title: "Problemy Kalorimetrii i Khimicheskoi Termodinamiki, Doklady na Vsesoyuznoi Konferentsii" (translated: Problems of Calorimetry and Chemical Thermodynamics, Proceedings of the All-Union Conference)
+* 52KOR: Korey, S.; personal communication cited in Korkes, S.; Brookhaven Symp. Biol.; 5, 192 (1952).
+* 56KIT/HOR: Kitzinger, C.; Horecker, B.L.; Weisbach, A; Abstr. 20th Int. Physiol. Congress, Brussels (1956).
+* 65SEK/SUN: Sekijo, C.; Sunahara, N.; Iwakumo, S.; Hakko To Taisha; 2, 139 (1965).
+* 68KOH/WAR: Kohn and Warren (1968).
+* 74SCH/STU: Schott, M.; Sturtevant, J.M.; unpublished data; cited in 74BUR.
+* 75KAP/BAR: Kapitannikov, Yu. V.; Barshevskaya, T.N.; Ginodman, L.M.; Ref. Dokl. Socbshch. - Mendeleevsk. S'ezd Obshch. Prikl. Khim., 11th, Vol. 6, p.59. Edited by V.N. Rozinskaya. "Nauka": Moscow (1975). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99269673405961 ; CODEN (CASSI) is: 37MOAO; lookup on https://cassi.cas.org/ yields: Title "Referaty Dokladov i Soobshchenii - Mendeleevskii S'ezd po Obshchei i Prikladnoi Khimii"; Translated Title: "Abstracts of Reports and Communications - Mendeleev Congress on General and Applied Chemistry"
+* 84LLO/CHA: Lloyd, N.E.; Chan, Y.C.; personal communication (1984) cited in 84TEW/GOL.
+* 84REK/RUM2 (appears in part 3): Rekhnrsky, M.V.; Rumch, L.D.; Gal'chenko, G.L.; Probl. Kalorim. Khim. Termodin., Dokl. Vses. Konf., 10th, Vol. 2, pp. 531-533; edited by I.M. Emanuel, Akad. Nauk SSSR. lnst. Khim. Fiz.: Chermogolovka. USSR (1984). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99279163405961 ; CODEN (CAS) is: 54OTAG ; lookup on cassi.cas.org yields: title: "Problemy Kalorimetrii i Khimicheskoi Termodinamiki, Doklady na Vsesoyuznoi Konferentsii" (translated: Problems of Calorimetry and Chemical Thermodynamics, Proceedings of the All-Union Conference)
 
-# Works with details to be added
 
-* 52KOR
-* 68KOH/WAR
-* 71BRI/CLA
-* 74SCH/STU
-* 75CLA/BIR
-* 84LLO/CHA
-* 88GUI/SNE
-* 91TEW/GOL2
-* 94WIL/TOO
-* 01DIC/BUR
-* 02TEW/GOL
-* 05SIR/HUT
-* 06AIR2
+# To be downloaded
+
+* 91TEW/GOL2: Tewari, Y.B; Goldberg, R.N.; Advani, J.V.; Biophys. Chem; 40, 263 (1991). https://doi.org/10.1016/0301-4622(91)80025-M
+* 94WIL/TOO: B. A. Williams and E. J. Toone, J. Org. Chem. 58, 3507 (1993). https://doi.org/10.1021/jo00065a010
+* 06AIR2 (is 07AIR): "Magnesium dependence of the measured equilibrium constants of amionayl-tRNA synthetases" Biophys. Chem. PMID: 17889423 DOI: 10.1016/j.bpc.2007.08.006
+
+     
+# Works which cannot be acted upon
+
+* 71BRI/CLA: H. G. Britton and J. B. Clarke (unpublished).
+* 75CLA/BIR: is actually 74CLA/BIR
+* 01DIC/BUR (is 00DIC/BUR): K. S. Dickson, C. M. Burns, and J. P. Richardson, J. Biol. Chem. 275, 15828 (2001; actually 2000). https://doi.org/10.1074/jbc.M910044199
+* 05SIR/HUT == 05SIR/HUE: V. A. Sirotkin, R. Huettl, and G. Wolf, Thermochim. Acta 426, 1 (2005). 10.1016/j.tca.2004.06.011
