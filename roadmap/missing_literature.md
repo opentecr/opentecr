@@ -119,7 +119,7 @@ You can find all the info we have on those works in the list below. It proved of
 
 # Details about works with unknown whereabouts
 
-(details about entries to be added)
+(details about entries added on a rolling basis)
 
 * 52KOR: Korey, S.; personal communication cited in Korkes, S.; Brookhaven Symp. Biol.; 5, 192 (1952).
 * 56KIT/HOR: Kitzinger, C.; Horecker, B.L.; Weisbach, A; Abstr. 20th Int. Physiol. Congress, Brussels (1956).
