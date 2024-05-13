@@ -123,7 +123,7 @@ You can find all the info we have on those works in the list below. It proved of
 
 * 52KOR: Korey, S.; personal communication cited in Korkes, S.; Brookhaven Symp. Biol.; 5, 192 (1952).
 * 56KIT/HOR: Kitzinger, C.; Horecker, B.L.; Weisbach, A; Abstr. 20th Int. Physiol. Congress, Brussels (1956).
-* 65SEK/SUN: Sekijo, C.; Sunahara, N.; Iwakumo, S.; Hakko To Taisha; 2, 139 (1965).
+* 65SEK/SUN: Sekijo, C.; Sunahara, N.; Iwakumo, S.; Hakko To Taisha; 2, 139 (1965).  Hakko To Taisha in the british library (london):  http://explore.bl.uk/primo_library/libweb/action/permalink.do?docId=BLL01008211401&vid=BLVU1&fn=permalink and http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01008211401
 * 68KOH/WAR: Kohn and Warren (1968).
 * 74SCH/STU: Schott, M.; Sturtevant, J.M.; unpublished data; cited in 74BUR.
 * 75KAP/BAR: Kapitannikov, Yu. V.; Barshevskaya, T.N.; Ginodman, L.M.; Ref. Dokl. Socbshch. - Mendeleevsk. S'ezd Obshch. Prikl. Khim., 11th, Vol. 6, p.59. Edited by V.N. Rozinskaya. "Nauka": Moscow (1975). This might be available here: https://catalog.lindahall.org/permalink/01LINDAHALL_INST/19lda7s/alma99269673405961 ; CODEN (CASSI) is: 37MOAO; lookup on https://cassi.cas.org/ yields: Title "Referaty Dokladov i Soobshchenii - Mendeleevskii S'ezd po Obshchei i Prikladnoi Khimii"; Translated Title: "Abstracts of Reports and Communications - Mendeleev Congress on General and Applied Chemistry"
