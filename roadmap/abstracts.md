@@ -1,6 +1,6 @@
 # 2024-07-15: BOSC 2024
 
-*[Abstract submitted for a talk by Robert Giessmann; accepted for a 5 minute talk]
+*[Abstract submitted for a talk by Robert Giessmann; accepted for a 5 minute talk]*
 
 openTECR ("Open database on Thermodynamics of Enzyme-Catalyzed Reactions") is a database and a community.
 
